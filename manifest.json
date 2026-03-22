@@ -1,0 +1,74 @@
+{
+  "name": "wit-creator-skills",
+  "displayName": "Creator Authority Skills — Video Creator Toolkit",
+  "version": "1.0.0",
+  "description": "8 skills to go from zero audience to trusted voice in your niche via YouTube + Substack. Built for Women in Tech Power Group.",
+  "author": "PF Core",
+  "license": "MIT",
+  "skills": [
+    {
+      "order": 1,
+      "name": "pfc-mkt-channel-blueprint",
+      "displayName": "Know Your Ground",
+      "path": "skills/pfc-mkt-channel-blueprint/SKILL.md",
+      "output": "channel-brief-v1.md",
+      "next": "pfc-mkt-content-ideation"
+    },
+    {
+      "order": 2,
+      "name": "pfc-mkt-content-ideation",
+      "displayName": "Find Problems Worth Solving",
+      "path": "skills/pfc-mkt-content-ideation/SKILL.md",
+      "output": "content-idea-bank-v1.md",
+      "next": "pfc-mkt-title-thumbnail"
+    },
+    {
+      "order": 3,
+      "name": "pfc-mkt-title-thumbnail",
+      "displayName": "Titles & Thumbnails That Earn the Click",
+      "path": "skills/pfc-mkt-title-thumbnail/SKILL.md",
+      "output": "title-thumbnail-pack-v1.md",
+      "next": "pfc-mkt-script-builder"
+    },
+    {
+      "order": 4,
+      "name": "pfc-mkt-script-builder",
+      "displayName": "Script It — Hook, Help, Ask",
+      "path": "skills/pfc-mkt-script-builder/SKILL.md",
+      "output": "script-[video-slug]-v1.md",
+      "next": "pfc-mkt-shorts-strategy"
+    },
+    {
+      "order": 5,
+      "name": "pfc-mkt-shorts-strategy",
+      "displayName": "Shorts Discovery Engine",
+      "path": "skills/pfc-mkt-shorts-strategy/SKILL.md",
+      "output": "shorts-calendar-v1.md",
+      "next": "pfc-mkt-seo-discovery"
+    },
+    {
+      "order": 6,
+      "name": "pfc-mkt-seo-discovery",
+      "displayName": "Get Found — Simple SEO",
+      "path": "skills/pfc-mkt-seo-discovery/SKILL.md",
+      "output": "seo-metadata-[video-slug]-v1.md + seo-checklist-v1.md",
+      "next": "pfc-mkt-community-loyalty"
+    },
+    {
+      "order": 7,
+      "name": "pfc-mkt-community-loyalty",
+      "displayName": "Build Your Community",
+      "path": "skills/pfc-mkt-community-loyalty/SKILL.md",
+      "output": "engagement-routine-v1.md",
+      "next": "pfc-mkt-monetise-early"
+    },
+    {
+      "order": 8,
+      "name": "pfc-mkt-monetise-early",
+      "displayName": "Make Money Before 10K",
+      "path": "skills/pfc-mkt-monetise-early/SKILL.md",
+      "output": "revenue-plan-v1.md",
+      "next": null
+    }
+  ]
+}
